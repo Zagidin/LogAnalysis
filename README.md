@@ -53,7 +53,17 @@
 
 ---
 
-![База Данных](img/отчет_handlers.png)
+## Создание отчета
+
+Пример запуска создания отчета
+
+```shell
+    python3 main.py logs/app1.log --report handlers
+```
+
+---
+
+![Отчет](img/отчет_handlers.png)
 
 ---
 
